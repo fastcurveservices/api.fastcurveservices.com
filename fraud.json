@@ -1,0 +1,17 @@
+[{
+	"company": "Mama Earth",
+	"fraudName": "Sales Fraud",
+	"reportedBy": "5 user reported",
+	"reportingDate": "23-Jun-2022",
+	"reportedFrom": ["Agra", "Noida", "Delhi"],
+	"description": "Sample.....",
+	"link": ""
+},{
+	"company": "Paytm",
+	"fraudName": "OTP Fraud",
+	"reportedBy": "TOI reported",
+	"reportingDate": "23-Jun-2022",
+	"reportedFrom": ["Agra", "Noida", "Delhi"],
+	"description": "Sample.....",
+	"link": "https://timesofindia.indiatimes.com/"
+}]
