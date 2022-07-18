@@ -4,7 +4,7 @@
 	"reportedBy": "5 user reported",
 	"reportingDate": "23-Jun-2022",
 	"reportedFrom": ["Agra", "Noida", "Delhi"],
-	"description": "Sample.....",
+	"description": ["Sample.....", "Sample.....", "Sample....."],
 	"link": ""
 },{
 	"company": "Paytm",
@@ -12,6 +12,6 @@
 	"reportedBy": "TOI reported",
 	"reportingDate": "23-Jun-2022",
 	"reportedFrom": ["Agra", "Noida", "Delhi"],
-	"description": "Sample.....",
+	"description": ["Sample.....", "Sample.....", "Sample....."],
 	"link": "https://timesofindia.indiatimes.com/"
 }]
