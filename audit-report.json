@@ -1,37 +1,37 @@
 {
-	"total": 16,
-	"looking": 10,
-	"updateDate": "19-Jul-2022",
+	"total": 18,
+	"looking": 11,
+	"updateDate": "20-Jul-2022",
 	"updateFrequency": "Daily",
 	"data": [{
 		"key": "BRANDING",
-		"t": 144,
-		"i": 103,
+		"t": 162,
+		"i": 116,
 		"c": 0,
-		"m": 103
+		"m": 116
 	}, {
 		"key": "SECURITY",
-		"t": 160,
-		"i": 92,
-		"c": 48,
-		"m": 44
+		"t": 180,
+		"i": 104,
+		"c": 54,
+		"m": 50
 	}, {
 		"key": "PERFORMANCE",
-		"t": 80,
-		"i": 24,
+		"t": 89,
+		"i": 26,
 		"c": 0,
-		"m": 24
+		"m": 26
 	}, {
 		"key": "BEST PRACTICES",
-		"t": 80,
-		"i": 31,
+		"t": 90,
+		"i": 36,
 		"c": 0,
-		"m": 31
+		"m": 36
 	}, {
 		"key": "USABILITY",
-		"t": 80,
-		"i": 53,
+		"t": 90,
+		"i": 60,
 		"c": 0,
-		"m": 53
+		"m": 60
 	}]
 }
