@@ -1,4 +1,4 @@
-[{
+{"data":[{
 	"company": "Mama Earth",
 	"fraudName": "Sales Fraud",
 	"reportedBy": "5 user reported",
@@ -15,3 +15,4 @@
 	"description": ["Sample.....", "Sample.....", "Sample....."],
 	"link": "https://timesofindia.indiatimes.com/"
 }]
+}
