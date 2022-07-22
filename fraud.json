@@ -4,7 +4,7 @@
 	"visit":101,
 	"company": "Mama Earth",
 	"fraudName": "Sales Fraud",
-	"reportedBy": "5 user reported",
+	"reportedBy": "5 people reported",
 	"reportingDate": "23-Jun-2022",
 	"reportedFrom": ["Samastipur", "Noida"],
 	"description": [
@@ -20,7 +20,7 @@
 	"company": "Loan amount processing",
 	"visit":102,
 	"fraudName": "fraud (Sachin's security guard duped)",
-	"reportedBy": "Indianexpress reported",
+	"reportedBy": "Indianexpress published",
 	"reportingDate": "16 July 2022",
 	"reportedFrom": ["Mumbai"],
 	"description": [
