@@ -1,5 +1,5 @@
 {
-	"visit":100,
+	"visit":206,
 	"data":[{
 	"visit":101,
 	"company": "Mama Earth",
@@ -17,13 +17,17 @@
 	],
 	"link": ""
 },{
-	"company": "Paytm",
+	"company": "Loan amount processing",
 	"visit":102,
-	"fraudName": "OTP Fraud",
-	"reportedBy": "TOI reported",
+	"fraudName": "fraud (Sachin's security guard duped)",
+	"reportedBy": "Indianexpress",
 	"reportingDate": "23-Jun-2022",
 	"reportedFrom": ["Agra", "Noida", "Delhi"],
-	"description": ["Sample.....", "Sample.....", "Sample....."],
-	"link": "https://timesofindia.indiatimes.com/"
+	"description": [
+		"Fraudster calls to check if you are in need of money & convince you to take low interest loan. They can take any bank name for this fraud. ",
+		"Fraudster asks to send details of AADHAR card, PAN card, debit card and credit card on a Whatsapp number. Also, they ask to send money to process loan.,
+		"Please do not send money & please do not share credit card or debit card or bank details."
+	],
+	"link": "https://indianexpress.com/article/cities/mumbai/security-guard-working-for-sachin-tendulkar-loses-rs-8200-to-cyber-fraud-8033727/"
 }]
 }
