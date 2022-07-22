@@ -1,0 +1,22 @@
+{
+	"visit":105,
+	"data":[{
+	"visit":101,
+	"company": "Mama Earth",
+	"fraudName": "Sales Fraud",
+	"reportedBy": "5 user reported",
+	"reportingDate": "23-Jun-2022",
+	"reportedFrom": ["Agra", "Noida", "Delhi"],
+	"description": ["Sample.....", "Sample.....", "Sample....."],
+	"link": ""
+},{
+	"company": "Paytm",
+	"visit":102,
+	"fraudName": "OTP Fraud",
+	"reportedBy": "TOI reported",
+	"reportingDate": "23-Jun-2022",
+	"reportedFrom": ["Agra", "Noida", "Delhi"],
+	"description": ["Sample.....", "Sample.....", "Sample....."],
+	"link": "https://timesofindia.indiatimes.com/"
+}]
+}
