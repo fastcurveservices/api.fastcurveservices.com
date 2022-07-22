@@ -6,8 +6,15 @@
 	"fraudName": "Sales Fraud",
 	"reportedBy": "5 user reported",
 	"reportingDate": "23-Jun-2022",
-	"reportedFrom": ["Agra", "Noida", "Delhi"],
-	"description": ["Sample.....", "Sample.....", "Sample....."],
+	"reportedFrom": ["Samsatipur"],
+	"description": [
+		"Fraudster somehow knows that you have ordered from Mamaearth. They call you with order details to win trust.",
+		"Once you are convinced they offer you discount & ask you to add a product in cart.", 
+		"On payment page, they will stop you & send a separate link to do payment.",
+		"This is fraud link.",
+		"",
+		"DO NOT PAY or CLICK."
+	],
 	"link": ""
 },{
 	"company": "Paytm",
