@@ -1,0 +1,29 @@
+{
+	"visit":105,
+	"data":[{
+	"visit":101,
+	"company": "Mamaearth",
+	"fraudName": "সম্পর্কিত জালিয়াতিी",
+	"reportedBy": "5 user reported",
+	"reportingDate": "23-Jun-2022",
+	"reportedFrom": ["সমষ্টিপুর"],
+	"description": [
+		"প্রতারক একরকম জানে যে আপনি Mamaearth থেকে অর্ডার করেছেন। আস্থা জেতার জন্য তারা আপনাকে অর্ডারের বিবরণ সহ কল ​​করে।",
+		"একবার আপনি নিশ্চিত হয়ে গেলে তারা আপনাকে ছাড় দেয় এবং আপনাকে কার্টে একটি পণ্য যোগ করতে বলে।",
+		"পেমেন্ট পৃষ্ঠায়, তারা আপনাকে থামাবে এবং পেমেন্ট করার জন্য একটি পৃথক লিঙ্ক পাঠাবে।",
+		"এটা জালিয়াতি লিঙ্ক.",
+		"",
+		"পে বা ক্লিক করবেন না।"
+	],
+	"link": ""
+},{
+	"company": "Paytm",
+	"visit":102,
+	"fraudName": "OTP Fraud",
+	"reportedBy": "TOI reported",
+	"reportingDate": "23-Jun-2022",
+	"reportedFrom": ["Agra", "Noida", "Delhi"],
+	"description": ["Sample.....", "Sample.....", "Sample....."],
+	"link": "https://timesofindia.indiatimes.com/"
+}]
+}
