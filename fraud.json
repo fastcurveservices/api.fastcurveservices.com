@@ -17,6 +17,29 @@
 	],
 	"link": ""
 },{
+	"company": "Whatsapp new number",
+	"visit":23,
+	"fraudName": "fraud",
+	"reportedBy": "8 users reported",
+	"reportingDate": "17-Jun-2022",
+	"reportedFrom": ["Bengaluru", "Agra"],
+	"description": [
+		"Fraudster buys a new sim & number. Install WhatsApp from the new number.",
+		"In Whatsapp, they set a picture of your boss or relative, or friend.",
+		" ",
+		"Then messages you, requesting you to save it as a new number.",
+		" ",
+		"Since you see a picture of your boss or relative or friend, you trust them.",
+		" ",
+		"Then they talks about your well-being to establish discussion.",
+		" ",
+		"Once the discussion is established, they ask you to pay some amount to them.",
+		"They can ask to pay via Whatsapp or Bank account or any payment link.",
+		" ",
+		"Stay alert! Do not trust new numbers blindly. If there is a new number then it's very important to call, verify & then only trust."
+	],
+	"link": ""
+},{
 	"company": "Loan amount processing",
 	"visit":102,
 	"fraudName": "fraud (Sachin's security guard duped)",
