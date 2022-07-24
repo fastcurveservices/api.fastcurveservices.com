@@ -1,6 +1,25 @@
 {
 	"visit":206,
 	"data":[{
+	"company": "Facebook account hack",
+	"visit":47,
+	"fraudName": "fraud",
+	"reportedBy": "27 users reported",
+	"reportingDate": "13-Jul-2022",
+	"reportedFrom": ["Panipat", "Darbhanga", "Hanumangarh"],
+	"description": [
+		"Fraudster hacks your boss or relative or friend's Facebook account.",
+		"Then messages you and asks about your well-being.",
+		" ",
+		"Since you are already connected on Facebook, you trust them & respond.",
+		" ",
+		"Once the discussion is established, they ask you to pay some amount to them.",
+		"They can ask to pay via Whatsapp or Bank account or any payment link.",
+		" ",
+		"Stay alert! Do not trust blindly if someone asks you for money via chat. If there is a new number then it's very important to call, verify & then only trust."
+	],
+	"link": ""
+},{
 	"visit":101,
 	"company": "MamaEarth",
 	"fraudName": "sales fraud",
