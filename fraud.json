@@ -71,5 +71,26 @@
 		"Please do not send money & please do not share credit card or debit card or bank details."
 	],
 	"link": "https://indianexpress.com/article/cities/mumbai/security-guard-working-for-sachin-tendulkar-loses-rs-8200-to-cyber-fraud-8033727/"
+},{
+	"company": "Customer support call",
+	"visit":61,
+	"fraudName": "fraud",
+	"reportedBy": "39 people reported",
+	"reportingDate": "8-Jul-2022",
+	"reportedFrom": ["Saharanpur", "Dehradun", "Patna"],
+	"description": [
+		"Fraudster buys a new number & saves it on Truecaller as any  company customer support number. Eg: Tata Customer Support Helpline.",
+		" ",
+		"They call you then. Many phones nowadays come with Truecaller pre-installed or sometimes people themselves install Truecaller to identify who is calling from a new number.",
+		" ",
+		"In this case, when a call comes, it shows customer support is calling. This is where the fraudster establishes trust with you.",
+		" ",
+		"Since you believe that it was customer support, they ask you for personal details like Bank details, Credit card, Debit Card details, Bank Pin, UPI PIN Password & OTP. Or they can ask you to transfer money to get some service done.",
+		" ",
+		"Please do not trust. No organization in the world should be asking you for Bank details, Credit card, Debit Card details, Bank Pin, UPI PIN Password & OTP.",
+		" ",
+		"Never pay money to any link shared by unknown people."
+	],
+	"link": ""
 }]
 }
