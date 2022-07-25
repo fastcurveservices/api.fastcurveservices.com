@@ -36,6 +36,23 @@
 	],
 	"link": ""
 },{
+	"company": "Lottery call",
+	"visit":16,
+	"fraudName": "fraud",
+	"reportedBy": "22 people reported",
+	"reportingDate": "11-Jul-2022",
+	"reportedFrom": ["Lucknow", "Indore", "Ayodhya"],
+	"description": [
+		"A fraudster calls you & tells you that you have won a lottery of some amount (say INR 50Lakh).",
+		" ",
+		"They establish trust via telling you some personal details about you like your identity cards like AADHAR, PAN or your family details, or your relative details. This is a trap.",
+		" ",
+		"Once, the trust is established, they ask for some amount (say INR 10 Thousand) to release the lottery amount.",
+		" ",
+		"Do not pay. Do not trust unknown calls. Fraudsters harness your need for money."
+	],
+	"link": ""
+},{
 	"company": "Whatsapp new number",
 	"visit":23,
 	"fraudName": "fraud",
