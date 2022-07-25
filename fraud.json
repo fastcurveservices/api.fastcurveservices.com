@@ -1,6 +1,24 @@
 {
-	"visit":206,
+	"visit":214,
 	"data":[{
+	"company": "WhatsApp lottery voice message",
+	"visit":12,
+	"fraudName": "fraud",
+	"reportedBy": "1 people reported",
+	"reportingDate": "24-Jul-2022",
+	"reportedFrom": ["Pune"],
+	"description": [
+		"A fraudster sends you an image with a lottery number & a voice message telling you that you have won the lottery.",
+		" ",
+		"To establish trust they tell  you that call is from WhatsApp company or they can take the name of any big company.",
+		"To further establish trust, they tell that their role was to tell that someone from a bank will contact you or you can contact yourselves from the given number in the image. This number is a fraudulent phone number. Any bank name like SBI, ICICI, or others can be used by the fraudster.",
+		" ",
+		"To understand this fraud, pls visit the reference link above which has a video explanation.",
+		" ",
+		"Please do not connect those numbers. They are frauds. Immediately report those numbers to us or the authority."
+	],
+	"link": "https://www.youtube.com/watch?v=Dy740bxXXRw"
+},{
 	"company": "Job interview & bond call",
 	"visit":29,
 	"fraudName": "fraud",
