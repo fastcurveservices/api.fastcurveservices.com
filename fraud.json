@@ -1,6 +1,21 @@
 {
 	"visit":206,
 	"data":[{
+	"company": "Job interview & bond call",
+	"visit":29,
+	"fraudName": "fraud",
+	"reportedBy": "9 people reported",
+	"reportingDate": "23-Jul-2022",
+	"reportedFrom": ["Kolkata", "Ara", "Moga"],
+	"description": [
+		"The fraudster calls you & tells you that there is an interview for a company. Then sets up 2-3 rounds of interviews for you to gain trust.",
+		" ",
+		"Finally, after all interview rounds, they will say you are selected. Then they ask you to pay bond money. They can trick with any other way also & demand money in any other way, other than asking for bond money.",
+		" ",
+		"Do not pay. Do not trust unknown calls. Verify the company in detail. Fraudsters harness your need for a job."
+	],
+	"link": ""
+},{
 	"company": "Facebook account hack",
 	"visit":47,
 	"fraudName": "fraud",
