@@ -1,10 +1,29 @@
 {
 	"visit":214,
 	"data":[{
+	"company": "ITC distributor",
+	"visit":18,
+	"fraudName": "fraud",
+	"reportedBy": "2 people reported",
+	"reportingDate": "27-Jul-2022",
+	"reportedFrom": ["Patna", "Haridwar"],
+	"description": [
+		"An advertisement for becoming a distributor of ITC company is circulating on social media. Though fraudsters can advertise for any company.",
+		" ",
+		"When you will call this number, the scammer will win your confidence and give another number. This time of the alleged Senior Management of ITC.  This person will pretend that he is officially licensing distribution rights on behalf of ITC. for registration, they demand a deposit of 25000 or more.",
+		" ",
+		"You would receive a fake confirmation letter and after a few days, you will receive an estimate for goods worth many lakh or more.",
+		" ",
+		"When the victim, transfers these registration amounts, the scammers switch off the phone and no such delivery of goods was made.",
+		" ",
+		"Please make sure you do not call such numbers mentioned in fake advertisements."
+	],
+	"link": ""
+},{
 	"company": "WhatsApp lottery voice message",
 	"visit":12,
 	"fraudName": "fraud",
-	"reportedBy": "1 people reported",
+	"reportedBy": "4 people reported",
 	"reportingDate": "24-Jul-2022",
 	"reportedFrom": ["Pune"],
 	"description": [
