@@ -1,6 +1,27 @@
 {
 	"visit":790,
 	"data":[{
+	"company": "Fake tour operator",
+	"visit":22,
+	"fraudName": "scam",
+	"reportedBy": "Times of India",
+	"reportingDate": "06-Aug-2022",
+	"reportedFrom": ["Mumbai"],
+	"description": [
+		"17 residents from Mumbai-Pune area were duped 5.6 lakh rupees collectively by a tour operator who offered them an attractive holiday package to Leh-Ladakh.",
+		" ",
+		"The victim searched online for any holiday tour package and found an advertisement for the same, with attractive offers.",
+		" ",
+		"The modulus operandi for such scams are simple, first they capture attention in online advertisements with attractive offers (sometime financially unrealistic), then they back such claims by dubious website/google reviews.",
+		" ",
+		"After the victim makes contact with the scammer, they create a WhatsApp group for all their targets and share dubious ‘tour calendar’ along with details of advance payments. They will send a QR code on the group for all advance and final payment purposes.",
+		" ",
+		"After the payment was done, the scammer switch off their phone.",
+		" ",
+		"Please make sure you do not call such numbers mentioned in fake advertisements with attractive offers."
+	],
+	"link": "https://timesofindia.indiatimes.com/city/mumbai/17-from-mumbai-pune-duped-of-rs-5-6-lakh-by-tour-operator/articleshow/93243416.cms?from=mdr"
+},{
 	"company": "ITC distributor",
 	"visit":18,
 	"fraudName": "fraud",
